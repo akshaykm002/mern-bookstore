@@ -1,0 +1,1 @@
+export const MONGODBURL = "mongodb+srv://akshaykm002:akshaykm@mern-bookstore.mmydh47.mongodb.net/book-collection?retryWrites=true&w=majority&appName=mern-bookstore"
